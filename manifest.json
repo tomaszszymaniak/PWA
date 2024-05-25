@@ -1,0 +1,17 @@
+{
+    "theme_color" : "#f9a04a",
+    "background_color" : "#f69435",
+    "display" : "fullscreen",
+    "scope" : "/",
+    "start_url" : "/",
+    "name" : "Jakaś strona kojota",
+    "short_name" : "KojotAPP",
+    "description" : "Projekt WSB - zaawansowane technologie internetowe",
+    "icons" : [ 
+        {
+            "src" : "./logo.png",
+            "size" : "512x512",
+            "type" : "image/png"
+        }
+    ]
+    }
