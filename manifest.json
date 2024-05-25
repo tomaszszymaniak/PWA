@@ -3,7 +3,7 @@
     "background_color" : "#f69435",
     "display" : "fullscreen",
     "scope" : "/",
-    "start_url" : "/",
+    "start_url" : "/PWA/",
     "name" : "Jakaś strona kojota",
     "short_name" : "KojotAPP",
     "description" : "Projekt WSB - zaawansowane technologie internetowe",
